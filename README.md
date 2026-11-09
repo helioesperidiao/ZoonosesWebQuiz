@@ -38,7 +38,7 @@ Também é possível publicar os arquivos em qualquer serviço de hospedagem de 
 ├── css/                 # Estilos da interface
 ├── img/                 # Imagens das perguntas (image1.png, image2.png...)
 ├── js/                  # Lógica do quiz, áudio, voz, timer e configurações
-└── context.py           # Utilitário para gerar conteudo_projeto.txt
+
 ```
 
 ## Editar as perguntas
